@@ -1,0 +1,42 @@
+{
+  "tickets": {
+    "12345": {
+      "event": "Concierto de Rock",
+      "price": 50,
+      "date": "2024-10-05",
+      "venue": "Estadio Nacional",
+      "zone":"A"
+    },
+    "12346": {
+      "event": "Partido de Fútbol",
+      "price": 30,
+      "date": "2024-11-12",
+      "venue": "Arena Deportiva",
+      "zone":"B"
+    },
+    "12347": {
+      "event": "Obra de Teatro",
+      "price": 25,
+      "date": "2024-12-01",
+      "venue": "Teatro Central",
+      "zone":"C"
+    }
+  },
+  "routes": {
+    "A-B": {
+      "route": "Ruta 1: A -> C -> B",
+      "distance_km": 15,
+      "duration_minutes": 30
+    },
+    "B-C": {
+      "route": "Ruta 2: B -> D -> C",
+      "distance_km": 10,
+      "duration_minutes": 20
+    },
+    "A-C": {
+      "route": "Ruta 3: A -> B -> C",
+      "distance_km": 25,
+      "duration_minutes": 45
+    }
+  }
+}

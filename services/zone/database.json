@@ -1,0 +1,16 @@
+{
+    "zones": {
+        "Zona_A": {
+            "capacity": 1000,
+            "occupied": 750
+        },
+        "Zona_B": {
+            "capacity": 2000,
+            "occupied": 1000
+        },
+        "Zona_C": {
+            "capacity": 500,
+            "occupied": 450
+        }
+    }
+}
